@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asharam khatik</h1>
 <h3 align="center">A passionate frontend developer and Student At IIT Madras</h3>
 
-<p align="left"> <img src="https://source.unsplash.com/1400x400/?code" alt="asharam582" /> </p>
+<p align="left"> <img src="https://source.unsplash.com/1400x400/?code,apple,data-analysis,professional" alt="asharam582" /> </p>
 
 <p align="left"> <a href="https://twitter.com/khatik_asharam" target="blank"><img src="https://img.shields.io/twitter/follow/khatik_asharam?logo=twitter&style=for-the-badge" alt="khatik_asharam" /></a> </p>
 

@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/khatik_asharam" target="blank"><img src="https://img.shields.io/twitter/follow/khatik_asharam?logo=twitter&style=for-the-badge" alt="khatik_asharam" /></a> </p>
 
-- 🌱 I’m currently learning **Data structure & Algorithm**
+- 🌱 I’m currently practicing **Data structure & Algorithm**
 
-- 💬 Ask me about ** Machin Learning, Data Science ,Web Development **
+- 💬 Ask me about ** Machine Learning, Data Science ,Web Development **
 
 - 📫 How to reach me **asharam.jdh2020@gmail.com**
 

@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently practicing **Data structure & Algorithm**
 
-- 💬 Ask me about ** Machine Learning, Data Science ,Web Development **
+- 💬 Ask me about **Machine Learning, Data Science ,Web Development**
 
 - 📫 How to reach me **asharam.jdh2020@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact - loading......
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

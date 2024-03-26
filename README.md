@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asharam khatik</h1>
-<h3 align="center">A passionate Data Science & AI/Ml  and Student At IIT Madras</h3>
+<h3 align="center">A passionate Data Science & AI/Ml Field  and Student At IIT Madras</h3>
 
 <p align="left"> <img src="https://source.unsplash.com/1400x400/?code,apple,data-analysis,professional" alt="asharam582" /> </p>
 

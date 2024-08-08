@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Asharam khatik</h1>
-<h3 align="center">A passionate Data Science & AI/Ml Field  and Student At IIT Madras</h3>
+<h1 align="center">Hi! I'm Asharam Khatik. ✨</h1>
+<h3 align="center">Hailing from Bhilwara,Rajasthan, I am a Software Developer pursuing an Undergraduate Degree from IIT Madras. I am skilled in Website Development (react.js & node.js),  Data Science, Computer Vision, and Natural Language Processing. Proficient in python, I also code in c++, javascript, and typescript.</h3>
 
 <p align="left"> <img src="https://source.unsplash.com/1400x400/?code,apple,data-analysis,professional" alt="asharam582" /> </p>
 
 <p align="left"> <a href="https://twitter.com/khatik_asharam" target="blank"><img src="https://img.shields.io/twitter/follow/khatik_asharam?logo=twitter&style=for-the-badge" alt="khatik_asharam" /></a> </p>
 
-- 🌱 I’m currently practicing **Data structure & Algorithm**
-
-- 💬 Ask me about **Machine Learning, Data Science ,Web Development**
-
-- 📫 How to reach me **asharam.jdh2020@gmail.com**
-
-- ⚡ Fun fact - loading......
+*Skills*
+- Full Stack Development (Web and Mobile application Development)
+- DevOps Engineering, CICD Automation, E2E Testing
+- Experienced Languages: JavaScript, Python, C and C++.
+- Knowledge about Low level and High level system design
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

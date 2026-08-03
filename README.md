@@ -1,36 +1,104 @@
-<h1 align="center">Hi! I'm Asharam Khatik. ✨</h1>
-<h3 align="center">Hailing from Bhilwara,Rajasthan, I am a Software Developer pursuing an Undergraduate Degree from IIT Madras. I am skilled in Website Development (react.js & node.js),  Data Science, Computer Vision, and Natural Language Processing. Proficient in python, I also code in c++, javascript, and typescript.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://source.unsplash.com/1400x400/?code,apple,data-analysis,professional" alt="asharam582" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Asharam%20Khatik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer%20%40%20Air%20India&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="left"> <a href="https://twitter.com/khatik_asharam" target="blank"><img src="https://img.shields.io/twitter/follow/khatik_asharam?logo=twitter&style=for-the-badge" alt="khatik_asharam" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Backend+Engineer+%40+Air+India;IIT+Madras+Graduate;Building+with+Python%2C+React+%26+Node.js;Computer+Vision+%7C+NLP+%7C+System+Design" alt="Typing SVG" />
+</a>
 
-*Skills*
-- Full Stack Development (Web and Mobile application Development)
-- DevOps Engineering, CICD Automation, E2E Testing
-- Experienced Languages: JavaScript, Python, C and C++.
-- Knowledge about Low level and High level system design
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/khatik_asharam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khatik_asharam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/asharam-khatik-b917b5200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asharam-khatik-b917b5200" height="30" width="40" /></a>
-<a href="https://instagram.com/asharam_khatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asharam_khatik" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=asharam582&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/asharam582?label=Followers&style=for-the-badge&color=58A6FF" alt="followers"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asharam582&show_icons=true&locale=en&layout=compact" alt="asharam582" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asharam582&show_icons=true&locale=en" alt="asharam582" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asharam582&" alt="asharam582" /></p>
-
-<div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=sudip-mondal-2002&theme=onedark&column=11" alt="zumrudu-anka" />
-    </a>
 </div>
+
+<br/>
+
+## 👋 About Me
+
+I'm Asharam, an **AI & Backend Engineer at Air India**, and an undergraduate from **IIT Madras**. Originally from Bhilwara, Rajasthan — I build systems end-to-end, from data pipelines and computer vision models to production backends and full-stack web apps.
+
+```yaml
+role:      AI & Backend Engineer @ Air India
+education: B.S., IIT Madras
+based_in:  India
+focus:     Backend Systems · Computer Vision · NLP · Data Science
+languages: Python, C++, JavaScript, TypeScript
+currently: Shipping ML-backed backend services and exploring system design at scale
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=asharam582&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Asharam's GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharam582&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asharam582&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asharam582&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=asharam582&theme=darkhub&no-frame=true&row=1&column=7" alt="trophies"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/asharam582/asharam582/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+> Powered by the `snk` GitHub Action — see `snake.yml` for setup (included alongside this README).
+
+<br/>
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+<a href="https://twitter.com/khatik_asharam" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://www.linkedin.com/in/asharam-khatik-b917b5200" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://instagram.com/asharam_khatik" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:asharamkhatik665@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>

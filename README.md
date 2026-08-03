@@ -21,7 +21,7 @@ I'm Asharam, an **AI & Backend Engineer at Air India**, and an undergraduate fro
 
 ```yaml
 role:      AI & Backend Engineer @ Air India
-education: B.S., IIT Madras
+education: B.Tech, IIT Madras
 based_in:  India
 focus:     Backend Systems · Computer Vision · NLP · Data Science
 languages: Python, C++, JavaScript, TypeScript
